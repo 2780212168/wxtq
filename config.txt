@@ -5,15 +5,15 @@
 # 公众号appSecret
 "app_secret": "fed79857da499df11df96e4f5a1a1726",
 # 模板消息id
-"template_id": "Zg_sX9K1VXDCIxWDojhc_JyNh0wGK0-H7vDEiqXKu9s",
+"template_id": "X4cYA1ixtfi2pXcCQ1yq9QZjLBoOsqFNSk8Xt3Y3xE4",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oxnVU6tIqwfbeoDveJTZKZAlJfIM","oxnVU6v2VeV1mH5PuqkClh0kKFe8"],
+"user": ["oxnVU6tIqwfbeoDveJTZKZAlJfIM","oxnVU6iJQk-Gg9Q-mhJwFTWKzAeE"],
  
 # 信息配置
 # 和风天气apikey
 "weather_key": "8e579506521d48ec9b2c5108c314c418",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "柳州市",
+"region": "苏州市",
 
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2020-03-08",
