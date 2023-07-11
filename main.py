@@ -10,11 +10,9 @@ import os
  
 def get_color():
     # 获取随机颜色
-    color = ["#"+''.join([random.choice('0123456789ABCDEF') for j in range(6)])]
-    return color[0]
-    #get_colors = lambda n: list(map(lambda i: "#" + "%06x" % random.randint(0, 0xFFFFFF), range(n)))
-    #color_list = get_colors(100)
-    #return random.choice(color_list)
+    get_colors = lambda n: list(map(lambda i: "#" + "%06x" % random.randint(0, 0xFFFFFF), range(n)))
+    color_list = get_colors(100)
+    return random.choice(color_list)
  
  
 def get_access_token():
